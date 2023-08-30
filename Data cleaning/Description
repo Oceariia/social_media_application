@@ -1,0 +1,1 @@
+# Data cleaning step including deleting puctuations, stopwords, urls, @users, a lemmatizer and a standardizer.
